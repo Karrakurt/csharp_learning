@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Литералы", "Chapter
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Типы данных", "Chapter 02\Типы данных\Типы данных.csproj", "{731BB337-8339-45E6-B011-157E47EF6746}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Консольный ввод-вывод", "Chapter 02\Консольный ввод-вывод\Консольный ввод-вывод.csproj", "{44003649-5DD7-4393-B799-1D25DD5B51A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{731BB337-8339-45E6-B011-157E47EF6746}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{731BB337-8339-45E6-B011-157E47EF6746}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{731BB337-8339-45E6-B011-157E47EF6746}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44003649-5DD7-4393-B799-1D25DD5B51A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44003649-5DD7-4393-B799-1D25DD5B51A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44003649-5DD7-4393-B799-1D25DD5B51A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44003649-5DD7-4393-B799-1D25DD5B51A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,6 +61,7 @@ Global
 		{94D746C5-2188-4614-84AA-6EC85DA89697} = {1D528AF1-5215-4FF5-A3D2-F77AC4B29F74}
 		{20D45B3B-5FA9-4D02-AFD2-8256B769E856} = {1D528AF1-5215-4FF5-A3D2-F77AC4B29F74}
 		{731BB337-8339-45E6-B011-157E47EF6746} = {1D528AF1-5215-4FF5-A3D2-F77AC4B29F74}
+		{44003649-5DD7-4393-B799-1D25DD5B51A6} = {1D528AF1-5215-4FF5-A3D2-F77AC4B29F74}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {96D83C9C-FB59-4DC6-9C88-D50A7BF34929}
