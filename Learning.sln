@@ -17,6 +17,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter 03", "Chapter 03", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Литералы", "Chapter 02\Литералы\Литералы.csproj", "{20D45B3B-5FA9-4D02-AFD2-8256B769E856}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Типы данных", "Chapter 02\Типы данных\Типы данных.csproj", "{731BB337-8339-45E6-B011-157E47EF6746}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{20D45B3B-5FA9-4D02-AFD2-8256B769E856}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20D45B3B-5FA9-4D02-AFD2-8256B769E856}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20D45B3B-5FA9-4D02-AFD2-8256B769E856}.Release|Any CPU.Build.0 = Release|Any CPU
+		{731BB337-8339-45E6-B011-157E47EF6746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731BB337-8339-45E6-B011-157E47EF6746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731BB337-8339-45E6-B011-157E47EF6746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731BB337-8339-45E6-B011-157E47EF6746}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,6 +54,7 @@ Global
 		{D53AACA2-A777-4DA0-BCD8-E29F02BDFB12} = {1D528AF1-5215-4FF5-A3D2-F77AC4B29F74}
 		{94D746C5-2188-4614-84AA-6EC85DA89697} = {1D528AF1-5215-4FF5-A3D2-F77AC4B29F74}
 		{20D45B3B-5FA9-4D02-AFD2-8256B769E856} = {1D528AF1-5215-4FF5-A3D2-F77AC4B29F74}
+		{731BB337-8339-45E6-B011-157E47EF6746} = {1D528AF1-5215-4FF5-A3D2-F77AC4B29F74}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {96D83C9C-FB59-4DC6-9C88-D50A7BF34929}
