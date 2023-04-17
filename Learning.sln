@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Арифметически�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Поразрядные операции", "Chapter 02\Поразрядные операции\Поразрядные операции.csproj", "{1E281BED-0491-466F-B587-4D411E5722E7}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Операции присваивания", "Chapter 02\Операции присваивания\Операции присваивания.csproj", "{5CE3AF2E-4F0E-49FF-AD78-41814A0BB94E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{1E281BED-0491-466F-B587-4D411E5722E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E281BED-0491-466F-B587-4D411E5722E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E281BED-0491-466F-B587-4D411E5722E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CE3AF2E-4F0E-49FF-AD78-41814A0BB94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE3AF2E-4F0E-49FF-AD78-41814A0BB94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE3AF2E-4F0E-49FF-AD78-41814A0BB94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE3AF2E-4F0E-49FF-AD78-41814A0BB94E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -76,6 +82,7 @@ Global
 		{44003649-5DD7-4393-B799-1D25DD5B51A6} = {1D528AF1-5215-4FF5-A3D2-F77AC4B29F74}
 		{2FD9BAC0-9E60-48C2-AE98-7669F81A6662} = {1D528AF1-5215-4FF5-A3D2-F77AC4B29F74}
 		{1E281BED-0491-466F-B587-4D411E5722E7} = {1D528AF1-5215-4FF5-A3D2-F77AC4B29F74}
+		{5CE3AF2E-4F0E-49FF-AD78-41814A0BB94E} = {1D528AF1-5215-4FF5-A3D2-F77AC4B29F74}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {96D83C9C-FB59-4DC6-9C88-D50A7BF34929}
