@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Первая программа на C# с .NET CLI", "Chapter 01\Первая программа на C# с .NET CLI\Первая программа на C# с .NET CLI.csproj", "{48BBBEC0-9A0E-40F9-B1C7-BB2AD77E5FA9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Структура программы", "Chapter 02\Структура программы\Структура программы.csproj", "{D53AACA2-A777-4DA0-BCD8-E29F02BDFB12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48BBBEC0-9A0E-40F9-B1C7-BB2AD77E5FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48BBBEC0-9A0E-40F9-B1C7-BB2AD77E5FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48BBBEC0-9A0E-40F9-B1C7-BB2AD77E5FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48BBBEC0-9A0E-40F9-B1C7-BB2AD77E5FA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D53AACA2-A777-4DA0-BCD8-E29F02BDFB12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D53AACA2-A777-4DA0-BCD8-E29F02BDFB12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D53AACA2-A777-4DA0-BCD8-E29F02BDFB12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D53AACA2-A777-4DA0-BCD8-E29F02BDFB12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96D83C9C-FB59-4DC6-9C88-D50A7BF34929}
+	EndGlobalSection
+EndGlobal
