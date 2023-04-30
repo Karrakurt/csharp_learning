@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\.sources\\csharp\\Learning\\Chapter 02\\Поразрядные операции\\Поразрядные операции.csproj": {}
+    "D:\\UserFiles\\Documents\\Программирование\\csharp\\learn\\csharp_learning.git\\Chapter 02\\Поразрядные операции\\Поразрядные операции.csproj": {}
   },
   "projects": {
-    "C:\\.sources\\csharp\\Learning\\Chapter 02\\Поразрядные операции\\Поразрядные операции.csproj": {
+    "D:\\UserFiles\\Documents\\Программирование\\csharp\\learn\\csharp_learning.git\\Chapter 02\\Поразрядные операции\\Поразрядные операции.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\.sources\\csharp\\Learning\\Chapter 02\\Поразрядные операции\\Поразрядные операции.csproj",
+        "projectUniqueName": "D:\\UserFiles\\Documents\\Программирование\\csharp\\learn\\csharp_learning.git\\Chapter 02\\Поразрядные операции\\Поразрядные операции.csproj",
         "projectName": "Поразрядные операции",
-        "projectPath": "C:\\.sources\\csharp\\Learning\\Chapter 02\\Поразрядные операции\\Поразрядные операции.csproj",
+        "projectPath": "D:\\UserFiles\\Documents\\Программирование\\csharp\\learn\\csharp_learning.git\\Chapter 02\\Поразрядные операции\\Поразрядные операции.csproj",
         "packagesPath": "C:\\Users\\Pan-terra\\.nuget\\packages\\",
-        "outputPath": "C:\\.sources\\csharp\\Learning\\Chapter 02\\Поразрядные операции\\obj\\",
+        "outputPath": "D:\\UserFiles\\Documents\\Программирование\\csharp\\learn\\csharp_learning.git\\Chapter 02\\Поразрядные операции\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

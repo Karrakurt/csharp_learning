@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\.sources\\csharp\\Learning\\Chapter 02\\Переменные и константы\\Переменные и константы.csproj": {}
+    "D:\\UserFiles\\Documents\\Программирование\\csharp\\learn\\csharp_learning.git\\Chapter 02\\Переменные и константы\\Переменные и константы.csproj": {}
   },
   "projects": {
-    "C:\\.sources\\csharp\\Learning\\Chapter 02\\Переменные и константы\\Переменные и константы.csproj": {
+    "D:\\UserFiles\\Documents\\Программирование\\csharp\\learn\\csharp_learning.git\\Chapter 02\\Переменные и константы\\Переменные и константы.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\.sources\\csharp\\Learning\\Chapter 02\\Переменные и константы\\Переменные и константы.csproj",
+        "projectUniqueName": "D:\\UserFiles\\Documents\\Программирование\\csharp\\learn\\csharp_learning.git\\Chapter 02\\Переменные и константы\\Переменные и константы.csproj",
         "projectName": "Переменные и константы",
-        "projectPath": "C:\\.sources\\csharp\\Learning\\Chapter 02\\Переменные и константы\\Переменные и константы.csproj",
+        "projectPath": "D:\\UserFiles\\Documents\\Программирование\\csharp\\learn\\csharp_learning.git\\Chapter 02\\Переменные и константы\\Переменные и константы.csproj",
         "packagesPath": "C:\\Users\\Pan-terra\\.nuget\\packages\\",
-        "outputPath": "C:\\.sources\\csharp\\Learning\\Chapter 02\\Переменные и константы\\obj\\",
+        "outputPath": "D:\\UserFiles\\Documents\\Программирование\\csharp\\learn\\csharp_learning.git\\Chapter 02\\Переменные и константы\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

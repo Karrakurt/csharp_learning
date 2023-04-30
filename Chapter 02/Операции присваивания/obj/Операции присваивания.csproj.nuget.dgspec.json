@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\.sources\\csharp\\Learning\\Chapter 02\\Операции присваивания\\Операции присваивания.csproj": {}
+    "D:\\UserFiles\\Documents\\Программирование\\csharp\\learn\\csharp_learning.git\\Chapter 02\\Операции присваивания\\Операции присваивания.csproj": {}
   },
   "projects": {
-    "C:\\.sources\\csharp\\Learning\\Chapter 02\\Операции присваивания\\Операции присваивания.csproj": {
+    "D:\\UserFiles\\Documents\\Программирование\\csharp\\learn\\csharp_learning.git\\Chapter 02\\Операции присваивания\\Операции присваивания.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\.sources\\csharp\\Learning\\Chapter 02\\Операции присваивания\\Операции присваивания.csproj",
+        "projectUniqueName": "D:\\UserFiles\\Documents\\Программирование\\csharp\\learn\\csharp_learning.git\\Chapter 02\\Операции присваивания\\Операции присваивания.csproj",
         "projectName": "Операции присваивания",
-        "projectPath": "C:\\.sources\\csharp\\Learning\\Chapter 02\\Операции присваивания\\Операции присваивания.csproj",
+        "projectPath": "D:\\UserFiles\\Documents\\Программирование\\csharp\\learn\\csharp_learning.git\\Chapter 02\\Операции присваивания\\Операции присваивания.csproj",
         "packagesPath": "C:\\Users\\Pan-terra\\.nuget\\packages\\",
-        "outputPath": "C:\\.sources\\csharp\\Learning\\Chapter 02\\Операции присваивания\\obj\\",
+        "outputPath": "D:\\UserFiles\\Documents\\Программирование\\csharp\\learn\\csharp_learning.git\\Chapter 02\\Операции присваивания\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UserFiles\\Documents\\Программирование\\csharp\\learn\\csharp_learning.git\\Chapter 01\\Первая программа на C# с .NET CLI\\Первая программа на C# с .NET CLI.csproj": {}
+    "D:\\UserFiles\\Documents\\Программирование\\csharp\\learn\\csharp_learning.git\\Chapter 02\\Преобразования базовых типов данных\\Преобразования базовых типов данных.csproj": {}
   },
   "projects": {
-    "D:\\UserFiles\\Documents\\Программирование\\csharp\\learn\\csharp_learning.git\\Chapter 01\\Первая программа на C# с .NET CLI\\Первая программа на C# с .NET CLI.csproj": {
+    "D:\\UserFiles\\Documents\\Программирование\\csharp\\learn\\csharp_learning.git\\Chapter 02\\Преобразования базовых типов данных\\Преобразования базовых типов данных.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UserFiles\\Documents\\Программирование\\csharp\\learn\\csharp_learning.git\\Chapter 01\\Первая программа на C# с .NET CLI\\Первая программа на C# с .NET CLI.csproj",
-        "projectName": "Первая программа на C# с .NET CLI",
-        "projectPath": "D:\\UserFiles\\Documents\\Программирование\\csharp\\learn\\csharp_learning.git\\Chapter 01\\Первая программа на C# с .NET CLI\\Первая программа на C# с .NET CLI.csproj",
+        "projectUniqueName": "D:\\UserFiles\\Documents\\Программирование\\csharp\\learn\\csharp_learning.git\\Chapter 02\\Преобразования базовых типов данных\\Преобразования базовых типов данных.csproj",
+        "projectName": "Преобразования базовых типов данных",
+        "projectPath": "D:\\UserFiles\\Documents\\Программирование\\csharp\\learn\\csharp_learning.git\\Chapter 02\\Преобразования базовых типов данных\\Преобразования базовых типов данных.csproj",
         "packagesPath": "C:\\Users\\Pan-terra\\.nuget\\packages\\",
-        "outputPath": "D:\\UserFiles\\Documents\\Программирование\\csharp\\learn\\csharp_learning.git\\Chapter 01\\Первая программа на C# с .NET CLI\\obj\\",
+        "outputPath": "D:\\UserFiles\\Documents\\Программирование\\csharp\\learn\\csharp_learning.git\\Chapter 02\\Преобразования базовых типов данных\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
