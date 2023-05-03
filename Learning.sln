@@ -47,15 +47,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Возвращение зн
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Параметры по ссылке и значению", "Chapter 02\Параметры по ссылке и значению\Параметры по ссылке и значению.csproj", "{539FB38E-6448-4C0C-B681-D9E155F97963}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Массив параметров и ключевое слово params", "Chapter 02\Массив параметров и ключевое слово params\Массив параметров и ключевое слово params.csproj", "{3FB55F24-31F8-4D54-95AB-BD68E22B8DAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Массив параметров и ключевое слово params", "Chapter 02\Массив параметров и ключевое слово params\Массив параметров и ключевое слово params.csproj", "{3FB55F24-31F8-4D54-95AB-BD68E22B8DAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Рекурсивные функции", "Chapter 02\Рекурсивные функции\Рекурсивные функции.csproj", "{A5E66599-B82A-46A5-9467-B3DD84D31C8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Рекурсивные функции", "Chapter 02\Рекурсивные функции\Рекурсивные функции.csproj", "{A5E66599-B82A-46A5-9467-B3DD84D31C8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Локальные функции", "Chapter 02\Локальные функции\Локальные функции.csproj", "{B2191C58-4DC9-4FBE-8DD3-24B54CBA8B5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Локальные функции", "Chapter 02\Локальные функции\Локальные функции.csproj", "{B2191C58-4DC9-4FBE-8DD3-24B54CBA8B5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Конструкция switch", "Chapter 02\Конструкция switch\Конструкция switch.csproj", "{34D6D403-0E57-4E90-91CF-FFF0D75DB385}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Конструкция switch", "Chapter 02\Конструкция switch\Конструкция switch.csproj", "{34D6D403-0E57-4E90-91CF-FFF0D75DB385}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Перечисления enum", "Chapter 02\Перечисления enum\Перечисления enum.csproj", "{88412395-C2EE-475F-B4EB-F2B44A49619D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Перечисления enum", "Chapter 02\Перечисления enum\Перечисления enum.csproj", "{88412395-C2EE-475F-B4EB-F2B44A49619D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Классы, структуры и пространства имен", "Chapter 03\Классы, структуры и пространства имен\Классы, структуры и пространства имен.csproj", "{EA7DC717-8CDB-4853-9CC8-514A1B83FEEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Конструкторы, инициализаторы и деконструкторы", "Chapter 03\Конструкторы, инициализаторы и деконструкторы\Конструкторы, инициализаторы и деконструкторы.csproj", "{1BB8D204-52BB-4466-8A8F-A29943DF71AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +163,14 @@ Global
 		{88412395-C2EE-475F-B4EB-F2B44A49619D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88412395-C2EE-475F-B4EB-F2B44A49619D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88412395-C2EE-475F-B4EB-F2B44A49619D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA7DC717-8CDB-4853-9CC8-514A1B83FEEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA7DC717-8CDB-4853-9CC8-514A1B83FEEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA7DC717-8CDB-4853-9CC8-514A1B83FEEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA7DC717-8CDB-4853-9CC8-514A1B83FEEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BB8D204-52BB-4466-8A8F-A29943DF71AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB8D204-52BB-4466-8A8F-A29943DF71AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BB8D204-52BB-4466-8A8F-A29943DF71AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BB8D204-52BB-4466-8A8F-A29943DF71AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -188,6 +200,8 @@ Global
 		{B2191C58-4DC9-4FBE-8DD3-24B54CBA8B5D} = {1D528AF1-5215-4FF5-A3D2-F77AC4B29F74}
 		{34D6D403-0E57-4E90-91CF-FFF0D75DB385} = {1D528AF1-5215-4FF5-A3D2-F77AC4B29F74}
 		{88412395-C2EE-475F-B4EB-F2B44A49619D} = {1D528AF1-5215-4FF5-A3D2-F77AC4B29F74}
+		{EA7DC717-8CDB-4853-9CC8-514A1B83FEEA} = {D35BADD8-0F11-428C-A1E3-E0AF643F4242}
+		{1BB8D204-52BB-4466-8A8F-A29943DF71AE} = {D35BADD8-0F11-428C-A1E3-E0AF643F4242}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {96D83C9C-FB59-4DC6-9C88-D50A7BF34929}
